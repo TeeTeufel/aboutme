@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://christian.paets.ch/sitemap.xml
